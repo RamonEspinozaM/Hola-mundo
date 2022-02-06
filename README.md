@@ -1,5 +1,5 @@
-# Hola-mundo
-Mi primer repositorio de prueba
+# HOLA MUNDO
+Mi primer repositorio.
 
 Autor: Ramón 
 Fecha: 5/02/22
